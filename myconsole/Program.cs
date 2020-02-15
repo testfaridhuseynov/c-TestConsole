@@ -7,6 +7,7 @@ namespace myconsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.Write("Updated for new repository");
         }
     }
 }

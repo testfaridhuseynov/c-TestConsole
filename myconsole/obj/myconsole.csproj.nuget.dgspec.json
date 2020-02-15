@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fkhuseynov\\Documents\\Visual Studio Projects\\Trash Applications\\myconsole\\myconsole\\myconsole.csproj": {}
+    "C:\\Users\\fkhuseynov\\Desktop\\c-TestConsole\\myconsole\\myconsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fkhuseynov\\Documents\\Visual Studio Projects\\Trash Applications\\myconsole\\myconsole\\myconsole.csproj": {
+    "C:\\Users\\fkhuseynov\\Desktop\\c-TestConsole\\myconsole\\myconsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fkhuseynov\\Documents\\Visual Studio Projects\\Trash Applications\\myconsole\\myconsole\\myconsole.csproj",
+        "projectUniqueName": "C:\\Users\\fkhuseynov\\Desktop\\c-TestConsole\\myconsole\\myconsole.csproj",
         "projectName": "myconsole",
-        "projectPath": "C:\\Users\\fkhuseynov\\Documents\\Visual Studio Projects\\Trash Applications\\myconsole\\myconsole\\myconsole.csproj",
+        "projectPath": "C:\\Users\\fkhuseynov\\Desktop\\c-TestConsole\\myconsole\\myconsole.csproj",
         "packagesPath": "C:\\Users\\fkhuseynov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fkhuseynov\\Documents\\Visual Studio Projects\\Trash Applications\\myconsole\\myconsole\\obj\\",
+        "outputPath": "C:\\Users\\fkhuseynov\\Desktop\\c-TestConsole\\myconsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
