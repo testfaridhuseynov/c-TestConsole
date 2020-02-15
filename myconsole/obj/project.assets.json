@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fkhuseynov\\Desktop\\c-TestConsole\\myconsole\\myconsole.csproj",
+      "projectUniqueName": "C:\\Users\\fkhuseynov\\Documents\\Visual Studio Projects\\Trash Applications\\c-TestConsole.git\\myconsole\\myconsole.csproj",
       "projectName": "myconsole",
-      "projectPath": "C:\\Users\\fkhuseynov\\Desktop\\c-TestConsole\\myconsole\\myconsole.csproj",
+      "projectPath": "C:\\Users\\fkhuseynov\\Documents\\Visual Studio Projects\\Trash Applications\\c-TestConsole.git\\myconsole\\myconsole.csproj",
       "packagesPath": "C:\\Users\\fkhuseynov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fkhuseynov\\Desktop\\c-TestConsole\\myconsole\\obj\\",
+      "outputPath": "C:\\Users\\fkhuseynov\\Documents\\Visual Studio Projects\\Trash Applications\\c-TestConsole.git\\myconsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
