@@ -15,6 +15,8 @@ namespace myconsole
             Console.Write("From VS Updated for new repository");
             Console.Write("From VS Updated for new repository");
             Console.Write("From VS Updated for new repository");
+            Console.Write("From VS Updated for new repository");
+
         }
     }
 }
